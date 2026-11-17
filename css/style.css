@@ -63,3 +63,5 @@ footer{padding:34px 0;text-align:center;color:var(--muted);border-top:1px solid 
 html[dir=rtl] body{font-family:"Segoe UI",Tahoma,"Noto Naskh Arabic",sans-serif;line-height:1.9}
 @media(max-width:640px){.slide{width:72%}.slide[data-pos="-1"]{transform:translateX(-104%) scale(.82)}.slide[data-pos="1"]{transform:translateX(4%) scale(.82)}}
 @media(prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+.memorial{border-inline-start:4px solid var(--sand)}
+#loader img,.brand img{border-radius:50%;background:#fff}
