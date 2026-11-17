@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Anas Baba logo">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e3c98a"/><stop offset="1" stop-color="#b98f45"/></linearGradient></defs>
+<circle cx="60" cy="60" r="56" fill="#0d2b2e" stroke="url(#g)" stroke-width="4"/>
+<path d="M32 84 L52 36 L72 84 M39 68 H65" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M78 40 V84 M78 40 H88 Q97 40 97 49 Q97 58 88 58 H78 M78 58 H90 Q100 58 100 71 Q100 84 90 84 H78" fill="none" stroke="#f3efe4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
